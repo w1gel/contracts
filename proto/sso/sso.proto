@@ -36,7 +36,3 @@ message IsAdminRequest {
 message IsAdminResponse {
     bool is_admin = 1;
 }
-
-message test {
-    bool test = 1;
-}
